@@ -34,3 +34,4 @@ C:\Users\Student_06\Documents\Lab29_Fedorov_Meshcheryakov\TaskApi\obj\Debug\net1
 C:\Users\Student_06\Documents\Lab29_Fedorov_Meshcheryakov\TaskApi\obj\Debug\net10.0\TaskApi.pdb
 C:\Users\Student_06\Documents\Lab29_Fedorov_Meshcheryakov\TaskApi\obj\Debug\net10.0\TaskApi.genruntimeconfig.cache
 C:\Users\Student_06\Documents\Lab29_Fedorov_Meshcheryakov\TaskApi\obj\Debug\net10.0\ref\TaskApi.dll
+C:\Users\Student_06\Documents\Lab29_Fedorov_Meshcheryakov\TaskApi\obj\Debug\net10.0\TaskApi.sourcelink.json
